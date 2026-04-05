@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
-    "password": "",
+    "username": "OqtrasBehinence",
+    "password": "346243713432456586576",
     "type": "offline"
   },
   "server": {
     "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "port": 36392,
     "version": "",
     "try-creative": false
   },
@@ -31,19 +31,19 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Try 1v1ing Oqtra he's really bad at PvP",
+        "I'm doing my jobm you should do yours too! Right your unemployed",
+        "Luew has a IQ of 67!!"
       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 120000
+    "auto-reconnect-delay": 20,
+    "max-reconnect-delay": 120
   },
   "movement": {
     "enabled": true,
-    "circle-walk": {
+    "circle-walk": true
       "enabled": true,
       "radius": 4,
       "speed": 3000
@@ -54,7 +54,7 @@
     },
     "random-jump": {
       "enabled": true,
-      "interval": 10000
+      "interval": 1000
     }
   },
   "modules": {
